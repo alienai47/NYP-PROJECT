@@ -1,7 +1,7 @@
 <annotation>
 	<folder>2-class-obj</folder>
-	<filename>SM12.jpg</filename>
-	<path>C:\Users\nwaya\Downloads\2-class-obj\SM12.jpg</path>
+	<filename>SM29.jpg</filename>
+	<path>C:\Users\nwaya\Downloads\2-class-obj\SM29.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>24</xmin>
-			<ymin>8</ymin>
-			<xmax>120</xmax>
-			<ymax>217</ymax>
+			<xmin>4</xmin>
+			<ymin>43</ymin>
+			<xmax>215</xmax>
+			<ymax>161</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>134</xmin>
-			<ymin>54</ymin>
-			<xmax>172</xmax>
-			<ymax>216</ymax>
+			<xmin>37</xmin>
+			<ymin>162</ymin>
+			<xmax>179</xmax>
+			<ymax>203</ymax>
 		</bndbox>
 	</object>
 </annotation>

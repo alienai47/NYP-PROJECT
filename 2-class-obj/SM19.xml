@@ -1,7 +1,7 @@
 <annotation>
-	<folder>2-class-belt</folder>
+	<folder>2-class-obj</folder>
 	<filename>SM19.jpg</filename>
-	<path>C:\Users\nwaya\Downloads\2-class-belt\SM19.jpg</path>
+	<path>C:\Users\nwaya\Downloads\2-class-obj\SM19.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>130</xmin>
+			<xmin>128</xmin>
 			<ymin>73</ymin>
 			<xmax>219</xmax>
-			<ymax>198</ymax>
+			<ymax>197</ymax>
 		</bndbox>
 	</object>
 </annotation>

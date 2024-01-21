@@ -1,7 +1,7 @@
 <annotation>
-	<folder>2-class-belt</folder>
+	<folder>2-class-obj</folder>
 	<filename>SM21.jpg</filename>
-	<path>C:\Users\nwaya\Downloads\2-class-belt\SM21.jpg</path>
+	<path>C:\Users\nwaya\Downloads\2-class-obj\SM21.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>8</xmin>
+			<xmin>7</xmin>
 			<ymin>2</ymin>
-			<xmax>66</xmax>
-			<ymax>84</ymax>
+			<xmax>67</xmax>
+			<ymax>83</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -31,7 +31,7 @@
 		<bndbox>
 			<xmin>194</xmin>
 			<ymin>30</ymin>
-			<xmax>261</xmax>
+			<xmax>260</xmax>
 			<ymax>60</ymax>
 		</bndbox>
 	</object>
